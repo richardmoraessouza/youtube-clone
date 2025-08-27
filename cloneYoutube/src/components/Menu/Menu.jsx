@@ -1,13 +1,18 @@
+import { useState } from "react"
 import Fitro from "../Fitro/FItro"
 import styles from "./Menu.module.scss"
 function Menu() {
+  const [modal, setModal] = useState(false)
+  const modal_menu = () => {
+    setModal(!modal)
+  }
+  
     return (
         <aside className={styles.navegacao}>
             <section className={styles.containerPesquisar}>
                <form action="" className={styles.pesquisas}>
-
                 <section className={styles.logoContainer}>
-                 <button type="button" className={styles.hambuguer}>
+                 <button type="button" className={styles.hambuguer} onClick={modal_menu}>
                  <span class="material-symbols-outlined">menu</span>
                  </button>
                   <abbr title="Página inicial do Youtube" className={styles.img_Youtube}>
@@ -29,16 +34,14 @@ function Menu() {
                     <img src="/image/richard.jpg" alt="https://www.linkedin.com/in/richard-moraes-souza/" />
                   </button>
                </section>
-
                </form>
             </section>
 
-            <section className={styles.yes}>
-            <nav>
+            <section className={styles.fitrosNavegacao}>
               <Fitro/>
-            </nav>
            </section>
 
+           {modal && (
             <section aria-label="Menu principal" className={styles.menu}>
                 <nav>
                   <section>
@@ -98,6 +101,7 @@ function Menu() {
                     </p>
                 </footer>
             </section>
+           )}
       </aside>
       
     )

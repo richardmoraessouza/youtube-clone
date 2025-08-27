@@ -14,11 +14,12 @@
     background-color: var(--card-fundo);
   }
   
-  .yes {
+  .fitrosNavegacao {
     grid-area: main;
     margin-top: 56px;
     padding: 10px 0 5px 30px;
     overflow-y: auto;
+    width: 100%;
   }
   
 .containerPesquisar {
@@ -171,9 +172,8 @@
     grid-area: menu;
     margin-top: 56px; 
     padding: 0 10px;
-    min-width: 200px;
-    width: 15%; 
-    max-width: 210px; 
+    width: 250px; 
+    transition: transform 0.3s ease-in-out;
 
     a {
         display: flex;
@@ -212,6 +212,12 @@
     }
 }
 
+@media(min-width: 750px) {
+    .menu {
+        display: block;
+    }
+}
+
 @media(max-width: 550px) {
     .procurar {
         display: none !important;
@@ -224,9 +230,9 @@
         display: flex;
        justify-content: center;
        align-items: center;
-       padding: 0; // 🔴 muito importante
-       border: none; // ou: 1px solid transparent
-       line-height: 1; // previne "salto"
+       padding: 0; 
+       border: none; 
+       line-height: 1;
        font-size: 1rem;
        box-sizing: border-box;
     }
