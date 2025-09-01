@@ -34,5 +34,18 @@ i, span {
   width: 100%;
   height: 500px;
 
+abbr[title] {
+  text-decoration: underline dotted;
+  cursor: help;
+}
+abbr {
+  text-decoration: none; /* Remove a linha */
+}
+
+abbr.custom {
+  text-decoration: underline wavy red; /* Ou personalize */
+}
+
+
 
 } 

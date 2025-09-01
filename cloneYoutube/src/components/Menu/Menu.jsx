@@ -14,7 +14,7 @@ function Menu({ isOpen, toggleMenu }) {
             </button>
             <abbr title="Página inicial do Youtube" className={styles.img_Youtube}>
               <a href="http://" target="_self" rel="noopener noreferrer">
-                <img src="../image/Youtube.png" alt="Youtube" />
+                <img src="public/image/Youtube.png" alt="Youtube" />
               </a>
             </abbr>
           </section>
@@ -41,7 +41,7 @@ function Menu({ isOpen, toggleMenu }) {
               </button>
             </abbr>
             <button type="button" className={`rounded-4 ${styles.btnPerfil}`}>
-              <img src="/image/richard.jpg" alt="https://www.linkedin.com/in/richard-moraes-souza/" />
+              <img src="public/image/richard.jpg" alt="https://www.linkedin.com/in/richard-moraes-souza/" />
             </button>
           </section>
         </form>
@@ -64,6 +64,7 @@ function Menu({ isOpen, toggleMenu }) {
                 recursos
               </p>
               <p>© 2025 Google LLC</p>
+              <div className="p-5"></div>
             </footer>
           </section>
         )}

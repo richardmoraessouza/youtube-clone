@@ -1,42 +1,147 @@
 [
-    {
-        "link": "https://www.youtube.com/watch?v=mUZOySyVcuQ",
-        "thumbnail": "https://i.ytimg.com/vi/mUZOySyVcuQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCegP_ZUeF90TN2tRIZtRA1XlqLNQ",
-        "img_canal": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
-        "title" : "Você sabe usar Issues? - Curso de Git e GitHub",
-        "creator": "Curso em Vídeo",
-        "views": "74 mil visualizações - transmitido há 5 anos"
-    },
-    {
-        "thumbnail": "https://i.ytimg.com/vi/mUZOySyVcuQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCegP_ZUeF90TN2tRIZtRA1XlqLNQ",
-        "img_canal": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
-        "title" : "Você sabe usar Issues? - Curso de Git e GitHub",
-        "creator": "Curso em Vídeo",
-        "views": "74 mil visualizações - transmitido há 5 anos"
-    },
-    {
-        "thumbnail": "https://i.ytimg.com/vi/mUZOySyVcuQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCegP_ZUeF90TN2tRIZtRA1XlqLNQ",
-        "img_canal": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
-        "title" : "Você sabe usar Issues? - Curso de Git e GitHub",
-        "creator": "Curso em Vídeo",
-        "views": "74 mil visualizações - transmitido há 5 anos"
-    },
-    {
-        "thumbnail": "https://i.ytimg.com/vi/Xw96bHjCi7Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2O8UZxwth16Y3f8zR4SciE-1QuQ",
-        "title" : "Git Branches de forma fácil e com exemplo - Curso de Git",
-        "creator": "Curso em Vídeo",
-        "views": "123 mil visualizações - transmitido há 5 anos"
-    },
-    {
-        "thumbnail": "https://i.ytimg.com/vi/Xw96bHjCi7Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2O8UZxwth16Y3f8zR4SciE-1QuQ",
-        "title" : "Git Branches de forma fácil e com exemplo - Curso de Git",
-        "creator": "Curso em Vídeo",
-        "views": "123 mil visualizações - transmitido há 5 anos"
-    },
-    {
-        "thumbnail": "https://i.ytimg.com/vi/Xw96bHjCi7Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2O8UZxwth16Y3f8zR4SciE-1QuQ",
-        "title" : "Git Branches de forma fácil e com exemplo - Curso de Git",
-        "creator": "Curso em Vídeo",
-        "views": "123 mil visualizações - transmitido há 5 anos"
-    }
+  {
+    "link": "https://www.youtube.com/watch?v=mUZOySyVcuQ",
+    "thumbnail": "https://i.ytimg.com/vi/mUZOySyVcuQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCegP_ZUeF90TN2tRIZtRA1XlqLNQ",
+    "img_canal": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
+    "title": "Você sabe usar Issues? - Curso de Git e GitHub",
+    "creator": "Curso em Vídeo",
+    "views": "74 mil visualizações - transmitido há 5 anos"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=qwiondAnAE8",
+    "thumbnail": "https://i.ytimg.com/vi/JL_BnOlQ2uo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlqTWsa5KxZRKDisWp9ERg3IapeA",  
+    "img_canal": "https://yt3.ggpht.com/8DJXIJaYuZoYVCepIRbX3QAIHNGyHwf7e7_eejmwF8ZADh0Vl2hpoDlhvBqZ83gt56bvN8OyHw=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "A Sutil Arte de Desligar o Célebro",         
+    "creator": "Lip Font",       
+    "views": "47.844 visualizações  5 de ago. de 2025"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=y-G21cSB5gg",
+    "thumbnail": "https://i4.ytimg.com/vi/y-G21cSB5gg/0.jpg",  
+    "img_canal": "https://yt3.ggpht.com/VhXpxnJagh1CIXmjGupPi5kIKJpTqG-a0YDZ5kpRuJYQcwXOJxbC_PhQCCUajI_CklpkUQUIPQQ=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "É outro nível. É nível Artesano.",         
+    "creator": "Bimbo Brasil",       
+    "views": "839 mil visualizações  há 1 mês"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=U_LlX4t0A9I",
+    "thumbnail": "https://i.ytimg.com/vi_lc/U_LlX4t0A9I/hq720_pt.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1_eHYDErrxmd8AloUSCxpIZ_1Aw",  
+    "img_canal": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "US$ 10,000 A Cada Dia Que Você Sobreviver Na Natureza Selvagem",         
+    "creator": "MrBeast",       
+    "views": "305 mi de visualizações  há 1 ano"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Rt2oEZ8JJeI",
+    "thumbnail": "https://i.ytimg.com/vi/Rt2oEZ8JJeI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3zjhqMhxhoCLM57RT9CtStUOIxg",  
+    "img_canal": "https://yt3.ggpht.com/_Vi0yM8bDqrosk9DqL_Z7wCvo9HXR8DMyYJU9QJzGcvoT5nhdxpAI9UZEiz9VOcwgde_BAGtmQ=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "Jackie Chan é um Babá de Ação | FILME COMPLETO",         
+    "creator": "Swen Action",       
+    "views": "73 mil visualizações  há 3 dias "          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=qxyg9ZK7MKQ",
+    "thumbnail": "https://i.ytimg.com/vi/qxyg9ZK7MKQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAhI2yJSgBOiRmCeBVNpccHUriQjQ",  
+    "img_canal": "https://yt3.ggpht.com/I1nSrbAz7Dxp9965uO1EzOkcKCOjR9U4VuGIp5x9dglmF9vngsgyqpcIlj5aUCCmELBiUAqD0A=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "SOBREVIVI DE 0 A 100 DIAS COM A NOVA CLASSE DEVORADOR DE PELES NO 99 NOITES NA FLORESTA!! (IMORTAL)",         
+    "creator": "EmpireBlox",       
+    "views": "72.252 visualizações  há 23 horas"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=GRAfwHR4pxw",
+    "thumbnail": "https://i.ytimg.com/vi/GRAfwHR4pxw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrfW6qweXkz-eE2T8TdEkHDSRfTw",  
+    "img_canal": "https://yt3.ggpht.com/ytc/AIdro_kdYOUtp16eJsT8yUlmbU2sDUP8ESohkDlSLW9KDUXwJQI=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "30 Maiores TEORIAS DA CONSPIRAÇÃO de Todos os Tempos",         
+    "creator": "Você em Vídeo",       
+    "views": "2,1 mi de visualizações  há 1 mês"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=nYgVZ2GYKjA",
+    "thumbnail": "https://i.ytimg.com/vi/nYgVZ2GYKjA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDRMNWo-5Jbr9RNs7tag9Sujz0_eA",  
+    "img_canal": "https://yt3.ggpht.com/ytc/AIdro_kdYOUtp16eJsT8yUlmbU2sDUP8ESohkDlSLW9KDUXwJQI=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "11 MENTIRAS QUE VOCÊ AINDA ACREDITA !",         
+    "creator": "Você em Vídeo",       
+    "views": "15 mi de visualizações  há 5 anos"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=jahrgLqcCu8",
+    "thumbnail": "https://i.ytimg.com/vi/jahrgLqcCu8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBREcxmSMq3WY2lx0QFv-Q_VrTulg",  
+    "img_canal": "https://yt3.ggpht.com/AamnL9U7pxpc4R-fPX6XPuz-3J0IGzXoxJsTNYIuNvN1K0_cd-peP2g_xk4oWnmhdVaYxXl0=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "ONDE FICA MONTEVIDÉU? - GEOGUESSR",         
+    "creator": "alanzoka",       
+    "views": "320 mil visualizações  há 3 dias"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=xktZ5Nm6MWY",
+    "thumbnail": "https://i.ytimg.com/vi/xktZ5Nm6MWY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmymEMD1QoWtzzSNWyXp5hL1urQg",  
+    "img_canal": "https://yt3.ggpht.com/b4GdrYxstlT18pYeRAxGrhHsMmVvJQWtx9f5mC-EA5pSZp-g27_Yjvt8LcJsTGbnT3noVxbqBQ=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "SUPERNATURAL | TENTE NÃO RIR #5",         
+    "creator": "Diário de Caça",       
+    "views": "1,3 mi de visualizações  há 9 meses"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=MoYmhhVXb3w",
+    "thumbnail": "https://i.ytimg.com/vi/MoYmhhVXb3w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAwPH8OsBKE2fySBxiNjJKmtfO9jw",  
+    "img_canal": "https://yt3.ggpht.com/leQUlrkoY_SOgw-hDKUDj92M1atv5b_33EwHMthRCP3EZYYQEDAy_NxmWmXNqSWkMniom9F_Yuo=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "REAGINDO A PIOR FUGA DO SÉCULO! - React Xracing",         
+    "creator": "BruninZor",       
+    "views": "1,7 mi de visualizações  há 6 meses"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=hzvCawYEisw",
+    "thumbnail": "https://i.ytimg.com/vi/hzvCawYEisw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrZHHFd-xaE6KQ9ZIQXLVQPbX-cg",  
+    "img_canal": "https://yt3.ggpht.com/dEC7MoRSOJnOht4K51WRmVxfkAovQq2LayrjTxbEDfaye1oWjHdd-yFV_rfcIUls81hLygunfQ=s68-c-k-c0x00ffffff-no-rj",    
+    "title": "CASAL TENTA FUGA COM MOTO ROUBADA, BATE EM CARRO E ACABA PRESO.",         
+    "creator": "GCM MESQUITA",       
+    "views": "1,1 mi de visualizações  há 7 dias"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=MtxvG7tuVPc",
+    "thumbnail": "https://i.ytimg.com/vi/MtxvG7tuVPc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiW9gTw8lyS2QU2CuI_aY4swX_mw",  
+    "img_canal": "https://yt3.ggpht.com/8GS3zVxbxpHUqd7emCb87um7NvwYaGpswBYGerrK8q_ZmMXHvbvkqwoWX6dLxN9VTUHwEFKi=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "ESTOURE O BALÃO OU ENCONTRE SEU AMOR! | HOMENS EP:10",         
+    "creator": "PEIXE",       
+    "views": "1,6 mi de visualizações  há 5 dias"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Z0eAZa63DLU",
+    "thumbnail": "https://i.ytimg.com/vi/Z0eAZa63DLU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBw_X8bCU4eMZLiyz52SHtiVZ5WFw",  
+    "img_canal": "https://yt3.googleusercontent.com/n5GUY-L5kuEeNCdK5g0FiVbhoAHQJxAI-3xxvPIm1Qb2zjfRHrqNp6dakUwKGZUfBiyBrWqJPW4=s160-c-k-c0x00ffffff-no-rj",    
+    "title": "8 passos OBRIGATÓRIOS de tratamento de dados - Python para dados",         
+    "creator": "Hashtag Programação",       
+    "views": "6,5 mil visualizações  há 5 dias "          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=6RQfTGRgJvw",
+    "thumbnail": "https://i.ytimg.com/vi/6RQfTGRgJvw/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBapn6a0PaUfHHmqnu64jrM24SJHA",  
+    "img_canal": "https://yt3.ggpht.com/jOKzZmBnLketozAOdR9CIpcFgf0RGtY38ZT2MWJNTFvuIEOZMtOHSo8gF_LXbzSmsroA0pP5Cw=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "FIZEMOS O MORANGO DO AMOR *Quem fez melhor ?",         
+    "creator": "Emilly Vick",       
+    "views": "8 mi de visualizações  há 1 mês"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=BSJqNTFy8yg&list=RDBSJqNTFy8yg&start_radio=1",
+    "thumbnail": "https://i.ytimg.com/vi/BSJqNTFy8yg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOrmviAYSWyr-BmzOj-Urg1qQcTw",  
+    "img_canal": "",    
+    "title": "Banda Céu e Cantos - Hashtag # Nós Dois | Vídeo Clipe Oficial | Lançamento 2021",         
+    "creator": "Banda Céu e Cantos Oficial",       
+    "views": "1,1 mi de visualizações  há 4 anos "          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=w1vdsnLtZlc&list=RDw1vdsnLtZlc&start_radio=1",
+    "thumbnail": "https://i.ytimg.com/vi/w1vdsnLtZlc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzk0Jy-OfQGA0B3t3vhnj0_2VvMg",  
+    "img_canal": "https://yt3.ggpht.com/WeU4AapYA8MyX8_7TfiOBfYfRXx_OAuZPNXET-QlrUPcck6Eci3VunxWXrsakSpfzBdPqDarIA=s88-c-k-c0x00ffffff-no-rj",    
+    "title": "Teddy Hashtag- Pilòt",         
+    "creator": "Teddy Hashtag",       
+    "views": "7,3 mi de visualizações  há 10 meses"          
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=LHjDzSys-h4",
+    "thumbnail": "https://i.ytimg.com/vi/LHjDzSys-h4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_Bv4m5tTZ1LCIPPZHzlwYkRpIoA",  
+    "img_canal": "https://yt3.ggpht.com/7_zPzlPmpcxtxZLmBFkvjiKWZiiqqjtJtN54Vq5DacrWAo5RV56Yr14cnkexv0EH7zseV9rJUw=s48-c-k-c0x00ffffff-no-rj",    
+    "title": "O INFERNO URBANO",         
+    "creator": "JJ",       
+    "views": "185 mil visualizações  há 6 meses"          
+  }
+
 ]

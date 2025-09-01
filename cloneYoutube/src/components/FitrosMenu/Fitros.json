@@ -15,6 +15,11 @@
         "link": "subscriptions"
     },
     {
+        "icon": "",
+        "texto": "você >",
+        "link": ""
+    },
+    {
         "icon": "history",
         "texto": "Histórico",
         "link": "history"
@@ -44,6 +49,11 @@
         "icon": "download",
         "texto": "Download",
         "link": "download"
+    },
+     {
+        "icon": "",
+        "texto": "Inscrições >",
+        "link": ""
     },
     {
         "imagens": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
@@ -86,27 +96,12 @@
         "link": ""
     },
     {
-        "icon": "settings",
-        "texto": "Configurações",
-        "link": "settings"
+      "icon": "",
+      "texto": "Explorar >",
+      "link": ""
     },
     {
-        "icon": "flag",
-        "texto": "Histórico de denúncia",
-        "link": "flag"
-    },
-    {
-        "icon": "help",
-        "texto": "Ajuda",
-        "link": "help"
-    },
-    {
-        "icon": "feedback",
-        "texto": "Enviar feedback",
-        "link": "feedback"
-    },
-  {
-    "icon": "shopping_bag",
+      "icon": "shopping_bag",
     "texto": "Shopping",
     "link": "#"
   },
@@ -149,6 +144,26 @@
     "icon": "radio",
     "texto": "Ao vivo",
     "link": "#"
+  },
+  {
+      "icon": "settings",
+      "texto": "Configurações",
+      "link": "settings"
+  },
+  {
+      "icon": "flag",
+      "texto": "Histórico de denúncia",
+      "link": "flag"
+  },
+  {
+      "icon": "help",
+      "texto": "Ajuda",
+      "link": "help"
+  },
+  {
+      "icon": "feedback",
+      "texto": "Enviar feedback",
+      "link": "feedback"
   }
-
+  
 ]

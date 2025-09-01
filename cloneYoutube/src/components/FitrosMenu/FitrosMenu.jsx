@@ -3,7 +3,7 @@ import Fitro from "./Fitros.json";
 import styles from "./FitrosMenu.module.scss";
 
 function FitrosMenu() {
-  const breakpoints = [2, 8, 15, 19];
+  const breakpoints = [2, 9, 17, 27];
   const [selectedIndex, setSelectedIndex] = useState(0);
 
   return (
