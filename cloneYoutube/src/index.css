@@ -7,6 +7,10 @@ body {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
   background-color: var(--card-fundo);
+    overflow-y: auto;
+    max-height: 100vh;
+    scrollbar-width: thin;         
+     scrollbar-color: #717171 transparent;
 }
 
 a {
@@ -39,11 +43,11 @@ abbr[title] {
   cursor: help;
 }
 abbr {
-  text-decoration: none; /* Remove a linha */
+  text-decoration: none; 
 }
 
 abbr.custom {
-  text-decoration: underline wavy red; /* Ou personalize */
+  text-decoration: underline wavy red; 
 }
 
 

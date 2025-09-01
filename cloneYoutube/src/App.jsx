@@ -7,7 +7,6 @@ function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [isDesktop, setIsDesktop] = useState(window.innerWidth >= 1310); 
 
-  // Atualiza isDesktop no resize
   useEffect(() => {
     function handleResize() {
       setIsDesktop(window.innerWidth >= 1310);

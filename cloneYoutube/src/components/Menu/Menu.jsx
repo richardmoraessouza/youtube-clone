@@ -14,7 +14,7 @@ function Menu({ isOpen, toggleMenu }) {
             </button>
             <abbr title="Página inicial do Youtube" className={styles.img_Youtube}>
               <a href="http://" target="_self" rel="noopener noreferrer">
-                <img src="public/image/Youtube.png" alt="Youtube" />
+                <img src="/youtube-clone/image/Youtube.png" alt="Youtube" />
               </a>
             </abbr>
           </section>
@@ -41,7 +41,7 @@ function Menu({ isOpen, toggleMenu }) {
               </button>
             </abbr>
             <button type="button" className={`rounded-4 ${styles.btnPerfil}`}>
-              <img src="public/image/richard.jpg" alt="https://www.linkedin.com/in/richard-moraes-souza/" />
+              <img src="/youtube-clone/image/richard.jpg" alt="https://www.linkedin.com/in/richard-moraes-souza/" />
             </button>
           </section>
         </form>
