@@ -1,0 +1,24 @@
+
+.menuItem a {
+  gap: 8px;
+  padding: 10px;
+  color: white;
+  transition: background-color 0.2s ease;
+}
+
+.selected {
+  background-color: var(--cinza);
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #666;
+  margin: 8px 0;
+}
+
+.canais {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+}

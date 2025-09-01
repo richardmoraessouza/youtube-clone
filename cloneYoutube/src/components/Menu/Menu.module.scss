@@ -1,29 +1,24 @@
 
 .navegacao {
-    display: grid;
-    grid-template-columns: 200px 1fr; 
-    grid-template-rows: auto 1fr;
-    grid-template-areas:
-      "header header"
-      "menu main";
-    height: 100vh;
-    width: 100vw;
+    background-color: var(--card-fundo);
     position: fixed;
     top: 0;
     left: 0;
-    background-color: var(--card-fundo);
+    z-index: 1;
   }
+
+  .containerFitros {
+    display: flex;
+    flex-flow: row;
+ }
   
   .fitrosNavegacao {
-    grid-area: main;
     margin-top: 56px;
     padding: 10px 0 5px 30px;
     overflow-y: auto;
-    width: 100%;
   }
   
 .containerPesquisar {
-    grid-area: header;
     position: fixed;
     top: 0;
     left: 0;
@@ -168,20 +163,52 @@
     }
 }
 
+.menu::-webkit-scrollbar {
+  width: 8px;
+}
+
+.menu::-webkit-scrollbar-track {
+  background: transparent;        
+}
+
+.menu::-webkit-scrollbar-thumb {
+  background-color: #717171;      
+  border-radius: 4px;             
+}
+
+.menu::-webkit-scrollbar-thumb:hover {
+  background-color: #a0a0a0;     
+}
+
+.menuAtivo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 250px;
+    height: 100%;
+    background-color: var(--card-fundo);
+}
+
 .menu {
-    grid-area: menu;
+    
+     overflow-y: auto;
+    max-height: 100vh;
+    scrollbar-width: thin;         
+     scrollbar-color: #717171 transparent;
     margin-top: 56px; 
     padding: 0 10px;
     width: 250px; 
     transition: transform 0.3s ease-in-out;
-
+    
     a {
         display: flex;
         align-items: center;
         gap: 10px;
-        padding: 5px;
+        padding: 6px;
         border-radius: 5px;
         transition: background 0.3 ease-in-out;
+        font-size: 17px;
         &:hover  {
             background-color: var(--cinza);
         }
@@ -214,7 +241,7 @@
 
 @media(min-width: 750px) {
     .menu {
-        display: block;
+        display: inline-block;
     }
 }
 

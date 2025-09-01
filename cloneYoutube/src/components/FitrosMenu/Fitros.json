@@ -1,0 +1,154 @@
+[
+    {
+        "icon": "Home",
+        "texto": "Inicio",
+        "link": "Home"
+    },
+    {
+        "icon": "play_circle",
+        "texto": "Shorts",
+        "link": "play_circle"
+    },
+    {
+        "icon": "subscriptions",
+        "texto": "Inscrições",
+        "link": "subscriptions"
+    },
+    {
+        "icon": "history",
+        "texto": "Histórico",
+        "link": "history"
+    },
+    {
+        "icon": "playlist_play",
+        "texto": "Playlists",
+        "link": "playlists"
+    },
+    {
+        "icon": "video_library",
+        "texto": "Seus Vídeos",
+         "link": "Inicio"
+    },
+    {
+        "icon": "watch_later",
+        "texto": "Assistir mais tarde",
+        "link": "watch-later"
+    },
+    
+    {
+        "icon": "thumb_up",
+        "texto": "Vídeos com gostei",
+        "link": "thumb-up"
+    },
+    {
+        "icon": "download",
+        "texto": "Download",
+        "link": "download"
+    },
+    {
+        "imagens": "https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "icon": "",
+        "texto": "Curso em vídeo",
+        "link": ""
+    },
+    {
+         "imagens": "https://yt3.ggpht.com/AamnL9U7pxpc4R-fPX6XPuz-3J0IGzXoxJsTNYIuNvN1K0_cd-peP2g_xk4oWnmhdVaYxXl0=s176-c-k-c0x00ffffff-no-rj-mo",
+        "icon": "",
+        "texto": "Alanzoka",
+        "link": ""
+    },
+    {
+        "imagens": "https://yt3.ggpht.com/7_zPzlPmpcxtxZLmBFkvjiKWZiiqqjtJtN54Vq5DacrWAo5RV56Yr14cnkexv0EH7zseV9rJUw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "icon": "",
+        "texto": "JJ",
+        "link": ""
+    },
+    {
+        "imagens": "https://yt3.ggpht.com/B7iq3Vpy0_2VuPZfCe34mkHdYi7Fij13WiwnHI1IK7gSKsTJNyLIQx10qC7qMTE4gRaeIR2ZYUQ=s176-c-k-c0x00ffffff-no-rj-mo",
+        "icon": "",
+        "texto": "Dev em Dobro",
+        "link": ""
+    },
+    {
+        "imagens": "https://yt3.ggpht.com/n5GUY-L5kuEeNCdK5g0FiVbhoAHQJxAI-3xxvPIm1Qb2zjfRHrqNp6dakUwKGZUfBiyBrWqJPW4=s176-c-k-c0x00ffffff-no-rj-mo",
+        "icon": "",
+        "texto": "Hashtag",
+        "link": ""
+    },
+    {
+        "imagens": "https://yt3.ggpht.com/gNuv8IFbrxGoISet4nU0bzVz-nYvXINLPugdukDj2Hqsy_b3BV97Iz-PShjAcNm87jc7Rm7STg=s68-c-k-c0x00ffffff-no-rj",
+        "texto": "FELIJAO",
+        "link": ""
+    },
+    {
+        "imagens": "https://yt3.ggpht.com/ytc/AIdro_kdYOUtp16eJsT8yUlmbU2sDUP8ESohkDlSLW9KDUXwJQI=s68-c-k-c0x00ffffff-no-rj",
+        "texto": "você sabia?",
+        "link": ""
+    },
+    {
+        "icon": "settings",
+        "texto": "Configurações",
+        "link": "settings"
+    },
+    {
+        "icon": "flag",
+        "texto": "Histórico de denúncia",
+        "link": "flag"
+    },
+    {
+        "icon": "help",
+        "texto": "Ajuda",
+        "link": "help"
+    },
+    {
+        "icon": "feedback",
+        "texto": "Enviar feedback",
+        "link": "feedback"
+    },
+  {
+    "icon": "shopping_bag",
+    "texto": "Shopping",
+    "link": "#"
+  },
+  {
+    "icon": "music_note",
+    "texto": "Música",
+    "link": "#"
+  },
+  {
+    "icon": "movie",
+    "texto": "Filmes",
+    "link": "#"
+  },
+  {
+    "icon": "podcasts",
+    "texto": "Podcasts",
+    "link": "#"
+  },
+  {
+    "icon": "sports_esports",
+    "texto": "Jogos",
+    "link": "#"
+  },
+  {
+    "icon": "article",
+    "texto": "Notícias",
+    "link": "#"
+  },
+  {
+    "icon": "sports_soccer",
+    "texto": "Esportes",
+    "link": "#"
+  },
+  {
+    "icon": "cast_for_education",
+    "texto": "Cursos",
+    "link": "#"
+  },
+  {
+    "icon": "radio",
+    "texto": "Ao vivo",
+    "link": "#"
+  }
+
+]
