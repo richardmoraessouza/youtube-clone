@@ -4,7 +4,7 @@ Um clone moderno e responsivo da interface do YouTube desenvolvido com React, Vi
 
 ## 🚀 Demonstração
 
-Acesse a versão online: [YouTube Clone](https://richardmoraessouza.github.io/youtube-clone)
+Acesse a versão online: [YouTube Clone](https://tubeliteclone.netlify.app/)
 
 ## ✨ Funcionalidades
 
