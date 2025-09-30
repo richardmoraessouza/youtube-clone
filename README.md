@@ -28,7 +28,6 @@ Acesse a versão online: [YouTube Clone](https://tubeliteclone.netlify.app/)
 - **React 19.1.1** - Biblioteca principal para interface
 - **Vite 7.1.2** - Build tool e servidor de desenvolvimento
 - **SCSS** - Pré-processador CSS para estilização
-- **Tailwind CSS 4.1.12** - Framework CSS utilitário
 - **React Icons 5.5.0** - Biblioteca de ícones
 
 ### Ferramentas de Desenvolvimento
