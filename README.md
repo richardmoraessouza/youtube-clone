@@ -27,7 +27,6 @@ Acesse a versão online: [YouTube Clone](https://tubeliteclone.netlify.app/)
 ### Frontend
 - **React 19.1.1** - Biblioteca principal para interface
 - **Vite 7.1.2** - Build tool e servidor de desenvolvimento
-- **SCSS** - Pré-processador CSS para estilização
 - **React Icons 5.5.0** - Biblioteca de ícones
 
 ### Ferramentas de Desenvolvimento
